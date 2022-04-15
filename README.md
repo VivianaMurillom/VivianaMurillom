@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Viviana Murillo</h1>
 
-![Reminder](https://user-images.githubusercontent.com/85419875/163497538-dfdcbf73-f382-4ba4-b5f9-bc6ebdd29d49.gif)
+<div align="center">
+
+![Reminder 540px](https://user-images.githubusercontent.com/85419875/163501100-f92da86f-ad84-4b2a-b2d7-b7fb52d03153.gif)
+  
+</div>
 
 <h2 align="center">A passionate student of programming from Colombia</h2>
 
@@ -51,6 +55,7 @@
 <!--
 **VivianaMurillom/VivianaMurillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Reminder](https://user-images.githubusercontent.com/85419875/163497538-dfdcbf73-f382-4ba4-b5f9-bc6ebdd29d49.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
