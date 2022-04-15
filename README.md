@@ -10,7 +10,7 @@
 
 <h3 align="center">About me</h3>
 
-- I'm a student of kuepa Edutech's ✨Tech Power program✨
+- I'm a student of Kuepa Edutech's ✨Tech Power program✨
 - Also I was in Misión Tic 2021...
 
 <h3 align="center">About my knowledge</h3>
